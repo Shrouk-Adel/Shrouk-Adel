@@ -29,8 +29,8 @@
 ![jupyter](https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=sass)&nbsp;
 ![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=sass)&nbsp;
 ![matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=sass)&nbsp;
-![sklearn](https://img.shields.io/badge/-sklearn-05122A?style=flat&logo=sass)&nbsp;
+![sklearn](https://img.shields.io/badge/-skLearn-05122A?style=flat&logo=sass)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-Database-05122A?style=flat&logo=MongoDB)&nbsp;
+![MsSqlServer](https://img.shields.io/badge/-MsSqlServer-05122A?style=flat&logo=MongoDB)&nbsp;
 
 
